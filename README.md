@@ -1,1 +1,5 @@
-# my-first-repo
+Nama : Joshua
+
+NPM : 2306165540
+
+Kelas : PBP A
